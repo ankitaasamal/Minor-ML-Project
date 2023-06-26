@@ -1,4 +1,4 @@
-# 6th Semester Minor-ML-Project
+# Minor-ML-Project
 Breast Cancer Detection tool Using Machine Learning Classifier
 
 In today’s world we know how big of a disease cancer is which causes highest number of deaths. Cancer is a collection of more than 100 different and individual
