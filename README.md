@@ -1,5 +1,7 @@
 # Minor-ML-Project
 Breast Cancer Detection tool Using Machine Learning Classifier
+![Uploading Case-Studies-9-Case-Study-Breast-Cancer-Detection_v3-use-cases_Strona_02-scaled.jpg…]()
+
 
 In today’s world we know how big of a disease cancer is which causes highest number of deaths. Cancer is a collection of more than 100 different and individual
 diseases. It can evolve in any part of the body and have many different forms in each body part. Breast Cancer is one among them and it is the most widespread type of cancer among women all over the world. The diagnosis of breast cancer manually takes long 
